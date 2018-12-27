@@ -1,0 +1,11 @@
+Graphique pour oled ssd1331
+
+Modification du code d'Adafruit 
+
+https://github.com/adafruit/Adafruit-GFX-Library
+
+pour convertir les fonts TTF en module python
+Et inclure les caractères utf-8 comme les accents en Français.
+
+
+
