@@ -34,7 +34,7 @@ See notes at end for glyph nomenclature & other tidbits.
 #include <stdint.h>
 #include <ft2build.h>
 #include FT_GLYPH_H
-#include "../gfxfont.h" // Adafruit_GFX font structures
+#include "gfxfont.h" // Adafruit_GFX font structures
 #include <stdlib.h>
 #include <stdint.h>
 #include <ftdriver.h>
