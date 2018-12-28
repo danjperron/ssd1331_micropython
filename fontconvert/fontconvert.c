@@ -44,12 +44,12 @@ See notes at end for glyph nomenclature & other tidbits.
 
 
 // table of font to convert
-char *List = "ÉC !\"#$%&'()*+,-./0123456789:;<=>?@"\
+char *List = " !\"#$%&'()*+,-./0123456789:;<=>?@"\
           "ABCDEFGHIJKLMNOPQRSTUVWXYZ"\
           "[\\]^_`"\
           "abcdefghijklmnopqrstuvwxyz"\
           "{|}~"\
-          "àÀäÄâÂéÉèÈêÊëËôÔöÖîÎçÇ«»"\
+          "àÀäÄâÂéÉèÈêÊëËôÔöÖîÎçÇuüÛÛÜâÂ«»"\
           "µΩπ≤≥≠÷±°˚☼"\
           "╬╫╪╩╨╧╦╥╤╣╢╡╠╟╞╝╜╛╚╙╘╗╖╕╔╓╒║═┼┴┴┬┤├┘└┐┌│─"\
           "▀▄█▌▐▬▲►▼◄□←↑→↓↔◄\0";
